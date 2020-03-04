@@ -14,4 +14,40 @@ body {
 #download {
     font-size: 16px;
     color: aquamarine;
+    object-fit: contain;}
+#videodiv {
+    display: flex;
+}
+
+#video {
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#yptg {
+    font-weight: 300;
+    font-size: 42px;
+    font-family: verdana;
+    color: white;
+    
+}
+#excursionremembers {
+    color: gray;
+    font-family: verdana;
+    font-family: 21px;
+}
+#phoneicon {
+    margin-left: auto;
+    margin-right: auto;
+}
+#ianda {
+    font-family: verdana;
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}   
+#ex {
+    color: gray;
+    text-align: right;
+    
 }
